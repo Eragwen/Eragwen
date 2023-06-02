@@ -2,8 +2,6 @@
 ``` 
 WORK IN PROGRESS
 
-Here are some ideas to get you started:
-
 - 💻 Apprentice Network and system Technician/Administrator
 - 🔭 I’m instersted in increase my skills in programming 
 - 🌱 I’m currently learning some cybersecurity and hacking stuff
