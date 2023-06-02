@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Eragwen (And Yeah, I need to modify it) 
+### Hi there 👋, I'm Eragwen
 ``` 
 WORK IN PROGRESS
 
