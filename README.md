@@ -7,11 +7,12 @@ WORK IN PROGRESS
 - 🌱 I’m currently learning some cybersecurity and hacking stuff
 ```
 
-Root-me profile</br>
-https://www.root-me.org/Pressoude</br>
+## 🔗 Links
+### HackTheBox Profile : </br>
+[![HackTheBox](https://img.shields.io/badge/pressou-012A42?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1268572)</br>
 
-HackTheBox profile</br>
-https://app.hackthebox.com/profile/1268572</br>
+### Root-me Profile : </br>
+[![rootme](https://img.shields.io/badge/pressoude-303030?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Pressoude)</br>
 
 ## Stats
 
@@ -21,6 +22,5 @@ https://app.hackthebox.com/profile/1268572</br>
 
 </br></br>
 
-From [Eragwen](https://github.com/Eragwen)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Eragwen)
+From [@Eragwen](https://github.com/Eragwen)
 [![GitHub: @Eragwen](https://img.shields.io/github/followers/Eragwen?label=follow&style=social)](https://github.com/Eragwen)
