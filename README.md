@@ -8,11 +8,10 @@ WORK IN PROGRESS
 ```
 
 ## 🔗 Links
-### HackTheBox Profile : </br>
-[![HackTheBox](https://img.shields.io/badge/pressou-012A42?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1268572)</br>
 
-### Root-me Profile : </br>
-[![rootme](https://img.shields.io/badge/pressoude-303030?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Pressoude)</br>
+| HackTheBox Profile | Root-Me Profile |
+| :--------: | :-------: |
+| [![HackTheBox](https://img.shields.io/badge/pressou-012A42?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/1268572) | [![rootme](https://img.shields.io/badge/pressoude-303030?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/Pressoude) |
 
 ## Stats
 
